@@ -1,0 +1,60 @@
+Q1 - Python programming language was created by Guido van Rossum in the late 1980s 
+while he was working at the National Research Institute for Mathematics and Computer Science (CWI) in the Netherlands.
+
+
+Q2 - Python is a multi-paradigm programming language that supports multiple programming styles, including:
+Procedural programming ,Object-oriented programming ,Functional programming ,Imperative programming ,Event-driven programming: 
+Python's flexibility and versatility make it a popular choice for a wide range of programming tasks 
+from scripting and automation to data analysis and machine learning.
+
+
+Q3- Yes, Python is a case-sensitive language when dealing with identifiers. 
+
+
+Q4 - The correct extension of a Python file is ".py".
+
+
+Q5 - Python code is interpreted rather than compiled.
+
+
+Q6 - In Python, code blocks are defined using indentation. Some common blocks of code in Python include:
+Function definitions ,Conditional statements ,Loops .
+
+
+Q7 - The hash symbol "#" is used to give single line comments in Python.
+
+
+Q8 - There are a few functions that can help you find the version of Python that you are currently working on:
+sys.version ,platform.python_version() ,sys.version_info
+
+
+Q9 - Python supports the creation of anonymous functions at runtime, using a construct called "lambda" functions.
+
+
+Q10 - PIP stands for "Pip Installs Packages" or sometimes "Pip Installs Python".
+PIP is a package manager for Python that allows users to easily install and manage third-party Python packages and libraries.
+
+
+Q11 - print(): len(): range(): input(): type(): int(): float(): str(): list(): sum():
+
+
+Q12 - In Python, the maximum possible length of an identifier is not specified, 
+but it is recommended to keep the identifier names reasonably short and meaningful.
+
+
+Q13 - Python is a popular programming language that offers several benefits, including:
+Easy to Learn ,Large Standard Library ,Cross-Platform, Third-Party Libraries ,High-Level Language ,
+Support for Multiple Programming Paradigms ,Open-Source and Community-Driven.
+
+
+Q14 -Memory management in Python is handled automatically by the language itself.
+
+
+Q15 -To install Python on Windows and set path variables, follow these steps:
+Download the latest version of Python for Windows from the official website: https://www.python.org/downloads/windows/
+Run the installer and select "Add Python X.X to PATH" during the installation process. This will automatically set the path variables for you.
+
+
+Q16 -Yes, indentation is required in Python. 
+In fact, indentation is a fundamental part of the Python syntax and is used to indicate the block of code that belongs to a particular control structure, 
+such as a function, loop, or conditional statement
