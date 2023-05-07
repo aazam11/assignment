@@ -1,0 +1,81 @@
+Q1 -
+
+marks= int(input("enter marks  "))
+if marks > 90:
+    print("GRADE 'A' ")
+elif marks<=90 and marks>80:
+    print("GRADE 'B' ")
+elif marks >=60 and marks<=80:
+    print("GRADE 'C' ")
+else:
+    print("GRADE 'D' ")
+
+
+
+
+Q2 -
+cost_of_bike = int(input("enter the cost of bike to calculate road tax   "))
+if cost_of_bike > 100000:
+    print(cost_of_bike * 0.15)
+elif cost_of_bike >50000 and cost_of_bike<=100000:
+    print(cost_of_bike * 0.10)
+elif cost_of_bike <=50000:
+    print(cost_of_bike * 0.05)
+    
+    
+    
+Q3-
+city = input("Enter a city: ").lower()
+
+if city == "delhi":
+    print("The monument of Delhi is Red Fort.")
+elif city == "agra":
+    print("The monument of Agra is Taj Mahal.")
+elif city == "jaipur":
+    print("The monument of Jaipur is Jal mahal.")
+elif city == "hyderabad":
+    print("The monument of Hyderabad is CharMinar .")
+else:
+    print("Sorry, we don't have information about monuments in",city)
+    
+    
+    
+Q4-
+num = int(input("Enter a number: "))
+
+count = 0
+
+while num > 10:
+    num /= 3
+    count += 1
+
+print("The number can be divided by (3)", count ,"times before it is less than or equal to 10.")
+
+
+Q5-
+A while loop in Python is used to execute a block of code repeatedly until a certain condition is met.
+The condition is checked at the beginning of each iteration of the loop, and the loop continues to execute as long as the condition is true.
+Once the condition becomes false, the loop terminates and the code execution continues with the next line of code.
+
+example-
+count = 1
+while count <= 5:
+    print(count)
+    count += 1
+    
+    
+Q6-
+
+
+
+Q7-
+num = 10
+while num >= 1:
+    print(num)
+    num -= 1
+    
+Q8-
+num = 10
+while num >= 1:
+    print(num)
+    num -= 1
